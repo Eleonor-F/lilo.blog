@@ -4,16 +4,11 @@ date = "2025-02-13"
 draft = false
 pinned = false
 +++
-<!--StartFragment-->
-
-`{{</lead>}}`
+{{<lead>}}
 
 Navid Mirzaie und Silja Mast sind beide seit mehreren Jahren mit Herzblut bei Pfasyl dabei. Im Interview erzählen sie über ihre Erfahrungen, Lieblingsmomente aber auch die Herausforderungen, die ihr Hobby mit sich bringt.\
-<!--StartFragment-->
+{{</lead>}}
 
-<!--EndFragment-->
-
-`{{</*box*/>}}`\
 Nervös stiegen wir aus dem RBS-Zug in Zollikofen aus. Von weitem sahen wir eine Gruppe Junge Erwachsenen, die sich auf dem Boden gesetzt hatten. Einer davon trug eine Pfadi-Cravatte. Als er uns erblicke, standen zwei auf und kamen uns entgegen. Nach einer herzlichen Begrüßung mit Umarmung und ein paar lächelnden Worten, war unsere Nervosität auch verflogen. Ihre Freude und Begeisterung, über ihre Erfahrungen zu berichten, war sofort spürbar. In diesem Interview erzählen sie von ihrem Einsatz und was Pfasyl für sie bedeutet.
 
  **Wie seid ihr dazu gekommen, Pfasyl zu leiten?**
